@@ -8,3 +8,11 @@ The system uses a web interface to input data, visualize encryption and decrypti
 
 ## Software Requirements
 - STM32CubeIDE
+
+## Workflow
+![Alt text](images/workflow.png)
+
+## Results
+![Alt text](images/results.png)
+
+
